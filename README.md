@@ -33,5 +33,6 @@ So, this repository contains the minimal project that runs on AWS lambda.
 Main differences are:
 1. Using `.csproj` instead of `project.json`.
 2. Newer version of `AWS.Lambda` libraries.
+3. Makefile to make the life easier.
 
 Happy coding, brothers and sisters!
